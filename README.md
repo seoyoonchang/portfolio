@@ -1,8 +1,8 @@
 # Seoyoon Chang
 
 ### Education
-Biopsychology, Cognition, Neuroscience, B.S.
-Biology, Health, and Society, B.S.
+- Biopsychology, Cognition, Neuroscience, B.S.
+- Biology, Health, and Society, B.S.
 
 ### Work Experience
 Write something here @ Write something here
