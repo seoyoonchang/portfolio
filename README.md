@@ -10,5 +10,4 @@ Write something here @ Write something here
 - Big impact project 2
 
 ### Projects
-Whatever
-- Something
+- Whatever
